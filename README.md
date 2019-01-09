@@ -31,15 +31,15 @@
 28)written
 29)written
 30)written
-31)
-32)
-33)
+31)written
+32)written
+33)written
 ## ХОР
-34)
-35)
-36)
-37)
-38)
+34)written
+35)written
+36)written
+37)written
+38)written
 39)
 40)
 41)
