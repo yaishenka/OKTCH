@@ -1,7 +1,7 @@
 # OKTCH
 Боль. Слезы. Можно хор?
 ## Вопросики на удосик
-1)uploaded
+1)uploaded(ошибка в д-ве одного тождества)
 2)uploaded
 3)uploaded
 4)uploaded
