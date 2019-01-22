@@ -11,7 +11,7 @@
 8)uploaded
 9)uploaded
 10)uploaded
-11)uploaded
+11)uploaded опечатка в теореме о п-й ф-ле
 12)uploaded
 13)uploaded
 14)uploaded
