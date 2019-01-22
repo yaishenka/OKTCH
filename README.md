@@ -1,7 +1,7 @@
 # OKTCH
 Боль. Слезы. Можно хор?
 ## Вопросики на удосик
-1)uploaded(ошибка в д-ве одного тождества)
+1)uploaded
 2)uploaded
 3)uploaded
 4)uploaded
@@ -11,7 +11,7 @@
 8)uploaded
 9)uploaded
 10)uploaded
-11)uploaded опечатка в теореме о п-й ф-ле
+11)uploaded 
 12)uploaded
 13)uploaded
 14)uploaded
@@ -40,33 +40,33 @@
 36)uploaded
 37)uploaded
 38)uploaded
-39)written
-40)written
-41)written
-42)written
-43)written
-44)written
-45)written
-46)written
-47)written
-48)written
-49)written
-50)written
-51)written
-52)written
-53)written
-54)written
-55)written
-56)written
-57)written
-58)written
-59)written
-60)written
-61)written
-62)written
-63)written
-64)written
-65)written
+39)uploaded
+40)uploaded
+41)uploaded
+42)uploaded
+43)uploaded
+44)uploaded
+45)uploaded
+46)uploaded
+47)uploaded
+48)uploaded
+49)uploaded
+50)uploaded
+51)uploaded
+52)uploaded
+53)uploaded
+54)uploaded
+55)uploaded
+56)uploaded
+57)uploaded
+58)uploaded
+59)uploaded
+60)uploaded
+61)uploaded
+62)uploaded
+63)uploaded
+64)uploaded
+65)uploaded
 ## отл (их скорее всего не напишу, но все же)
 66)
 67)
