@@ -4,8 +4,8 @@ import os
 from io import BytesIO
 import img2pdf
 
-main_dir = '/Users/daniilgagarinov/Documents/GitReps/OKTCH/'
-sources_dir = '/Users/daniilgagarinov/Documents/GitReps/OKTCH/sources'
+main_dir = '/Users/daniilgagarinov/GitReps/OKTCH/'
+sources_dir = '/Users/daniilgagarinov/GitReps/OKTCH/sources'
 list = os.listdir(sources_dir)
 
 for file in list:
@@ -14,7 +14,11 @@ for file in list:
 
 for task_number in list:
     sources = os.listdir(sources_dir + '/' + task_number)
+    for file in sources:
+        if '.DS' in file:
+            sources.remove(file)
     sources.sort()
+
     new_task_file = PdfFileWriter()
     for source_file_name in sources:
         buf = BytesIO()
